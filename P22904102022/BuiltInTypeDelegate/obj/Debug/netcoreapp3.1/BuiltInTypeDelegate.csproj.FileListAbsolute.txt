@@ -1,0 +1,14 @@
+C:\Users\hamid.mammadov\Desktop\P229\P22904102022\BuiltInTypeDelegate\bin\Debug\netcoreapp3.1\BuiltInTypeDelegate.exe
+C:\Users\hamid.mammadov\Desktop\P229\P22904102022\BuiltInTypeDelegate\bin\Debug\netcoreapp3.1\BuiltInTypeDelegate.deps.json
+C:\Users\hamid.mammadov\Desktop\P229\P22904102022\BuiltInTypeDelegate\bin\Debug\netcoreapp3.1\BuiltInTypeDelegate.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P229\P22904102022\BuiltInTypeDelegate\bin\Debug\netcoreapp3.1\BuiltInTypeDelegate.runtimeconfig.dev.json
+C:\Users\hamid.mammadov\Desktop\P229\P22904102022\BuiltInTypeDelegate\bin\Debug\netcoreapp3.1\BuiltInTypeDelegate.dll
+C:\Users\hamid.mammadov\Desktop\P229\P22904102022\BuiltInTypeDelegate\bin\Debug\netcoreapp3.1\BuiltInTypeDelegate.pdb
+C:\Users\hamid.mammadov\Desktop\P229\P22904102022\BuiltInTypeDelegate\obj\Debug\netcoreapp3.1\BuiltInTypeDelegate.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P229\P22904102022\BuiltInTypeDelegate\obj\Debug\netcoreapp3.1\BuiltInTypeDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P229\P22904102022\BuiltInTypeDelegate\obj\Debug\netcoreapp3.1\BuiltInTypeDelegate.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P229\P22904102022\BuiltInTypeDelegate\obj\Debug\netcoreapp3.1\BuiltInTypeDelegate.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P229\P22904102022\BuiltInTypeDelegate\obj\Debug\netcoreapp3.1\BuiltInTypeDelegate.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P229\P22904102022\BuiltInTypeDelegate\obj\Debug\netcoreapp3.1\BuiltInTypeDelegate.dll
+C:\Users\hamid.mammadov\Desktop\P229\P22904102022\BuiltInTypeDelegate\obj\Debug\netcoreapp3.1\BuiltInTypeDelegate.pdb
+C:\Users\hamid.mammadov\Desktop\P229\P22904102022\BuiltInTypeDelegate\obj\Debug\netcoreapp3.1\BuiltInTypeDelegate.genruntimeconfig.cache
